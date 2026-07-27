@@ -1,0 +1,404 @@
+{
+  "nav": {
+    "about": "About Us",
+    "services": "Services",
+    "viewAll": "All Services",
+    "news": "Latest News",
+    "success": "Success Stories",
+    "resources": "Resources",
+    "contact": "Contact"
+  },
+  "home": {
+    "heroTitle1": "Master ",
+    "heroTitleAI": "AI",
+    "heroTitle2": " for a Better Tomorrow",
+    "heroSubtitle": "EduAIR provides a range of innovative AI teaching kits and courses",
+    "cardDescription": "EduAIR (愛動智) is a Hong Kong non-profit spun out of a CUHK research team. We build AI teaching kits, run on-site workshops, and train teachers — bilingual and curriculum-mapped.",
+    "viewKits": "View Kits",
+    "bookWorkshop": "Book a Workshop",
+    "awardsLabel": "AWARDS & RECOGNITION",
+    "aboutEyebrow": "ABOUT US",
+    "aboutTitle": "Comprehensive AI Education Support for Schools",
+    "aboutBody": "EduAIR is building a shared learning platform offering a range of services that help students get to grips with AI and STEAM — understanding and applying that knowledge more deeply through hands-on, interactive learning that sparks curiosity and creativity.",
+    "aboutCta": "Learn More",
+    "kitsEyebrow": "TEACHING KITS & PLATFORMS",
+    "kitsIntro": "EduAIR's own iPort, iCar, iShare and iTrain platforms let students put AI and AIoT concepts into practice, building a real AI learning experience.",
+    "kitsTitle": "Award-Winning AI Teaching Kits",
+    "kits": [
+        {
+        "tag": "Kit 01",
+        "name": "iCar",
+        "subtitle": "AI Smart Car Teaching Kit",
+        "body": "iCar is an AI smart car kit designed for primary and secondary schools. Students program the car to complete various tasks, learning the basic principles of AI perception, decision-making and action.",
+        "cta": "Explore the iCar Kit",
+        "photo": "/images/iCar.jpg"
+        },
+        {
+        "tag": "Kit 02",
+        "name": "iPort",
+        "subtitle": "AIoT Maker Education Kit",
+        "body": "iPort is EduAIR's flagship AIoT teaching kit, integrating a range of sensors, actuators and AI modules so students can put AIoT concepts into practice and complete real smart-device projects.",
+        "cta": "Explore the iPort Kit",
+        "photo": "/images/iPort.jpg"
+        },
+        {
+        "tag": "Kit 03",
+        "name": "iShare",
+        "subtitle": "AI Collaborative Learning Platform",
+        "body": "iShare is EduAIR's AI collaborative learning platform, letting students complete AI projects together in the cloud, share their results, and build an AI learning community.",
+        "cta": "Explore the iShare Platform",
+        "photo": "/images/iShare.jpg"
+        }
+    ],
+    "newsLabel": "LATEST NEWS",
+    "newsTitle": "Salvation Army Kam Tin Nursery School — Canva Teaching Workshop",
+    "newsCta": "Learn more >",
+    "partnersLabel": "PARTNERS",
+    "partnersTitle": "Partnered with over 148 schools and organisations across Hong Kong",
+    "partnersBody": "From curriculum design to teacher training, from teaching kits to funding support — EduAIR offers schools a one-stop AI education solution.",
+    "ctaTitle": "Bring an AI workshop to your school this term.",
+    "ctaBody": "Tell us your year group and dates - we'll reply within a couple of working days.",
+    "ctaButton": "Get in Touch"
+    },
+    "about": {
+        "heroEyebrow": "ABOUT EDUAIR",
+        "heroTitle": "We build the AI lessons we wished we'd had in the classroom.",
+        "heroBody": "EduAIR (愛動智教育系統) is a Hong Kong non-profit edtech company designing AI and STEAM teaching kits, workshops, and teacher training for primary and secondary schools.",
+        "aboutEyebrow": "ABOUT US",
+        "aboutTitle": "Innovative AI and STEAM Education",
+        "aboutBody": "EduAIR is a non-profit organisation dedicated to promoting AI education in Hong Kong, helping young people build AI/STEAM skills, and supporting them in pursuing their goals in related fields.",
+        "aboutCta": "Contact Us",
+        "storyEyebrow": "OUR STORY",
+        "storyChapters": [
+            { "label": "ORIGIN", "heading": "Backed by CUHK researchers", "body": "EduAIR Systems Limited (愛動智) is a non-profit started with backing from a CUHK innovation seed fund, built around a research team already working on AI/STEAM education." },
+            { "label": "THE IDEA", "heading": "Turning AI into a teachable curriculum", "body": "The founding team broke AI topics into a structured, classroom-ready course — one that didn't require a computer science background to teach or to learn from." },
+            { "label": "WHERE IT STANDS", "heading": "In more than 50% of HK's secondary schools", "body": "That course, and the iCar kit built around it, is now used by more than half of Hong Kong's secondary schools for AI teaching activities." }
+        ],
+        "teamEyebrow": "TEAM & BOARD",
+        "teamTitle": "Supported and built up by a CUHK research team",
+        "teamBody": "EduAIR is made up of researchers with deep experience in technology education. Their expertise drives our mission to advance AI/STEAM education in Hong Kong.",
+        "boardTitle": "BOARD OF DIRECTORS",
+        "techTitle": "TECHNICAL TEAM"
+    },
+    "services": {
+    "heroEyebrow": "SERVICES",
+    "heroTitle": "Kits, workshops, and training — Comprehensive AI learning for everyone",
+    "heroBody": "Whether you need a single afternoon workshop or a term-length AI curriculum, EduAIR slots into the school calendar you already have.",
+    "tabKits": "AI Teaching Kits",
+    "tabSchool": "School Services",
+    "tabCourses": "Courses & Workshops",
+    "learnMore": "Learn More",
+    "kits": [
+        { "name": "iCar", "level": "JUNIOR SECONDARY", "body": "Block-coding basics and AI ethics through hands-on experiments." },
+        { "name": "iPort", "level": "NO CODING REQUIRED", "body": "No-code AI model training, then building an AIoT project." },
+        { "name": "iShare", "level": "FREE RESOURCE HUB", "body": "A shared library of AI learning tools and curriculum materials." },
+        { "name": "iTrain", "level": "JUNIOR SECONDARY", "body": "Description..." }
+    ],
+    "schoolServices": [
+        { "title": "On-site AI / STEAM workshops", "body": "Sessions run directly in your classroom using our own kits." },
+        { "title": "Teacher professional development", "body": "Hands-on training so staff can run AI lessons independently." },
+        { "title": "School-based AI curriculum design", "body": "Curriculum mapped to your specific year groups and timetable." },
+        { "title": "AI education consultancy services", "body": "Advice on kit selection, lesson sequencing, and classroom setup." },
+        { "title": "Competition and event planning", "body": "Support entering students into competitions and school showcase events." },
+        { "title": "Funding scheme applications", "body": "Help preparing applications for schemes like the Secondary School IT Innovation Lab." }
+    ],
+    "courses": [
+        { "title": "iCar workshop", "body": "Block-coding basics and AI ethics through hands-on self-driving-car experiments." },
+        { "title": "iPort workshop", "body": "No-code AI model training, then building an AIoT project with the iPort kit." },
+        { "title": "AI in teaching & learning", "body": "A professional-development workshop on applying AI tools directly in lesson delivery." },
+        { "title": "AI & Python / Scikit-learn", "body": "Applied coding workshops for classes ready to move past block coding." },
+        { "title": "Generative AI & Webapp", "body": "Using generative AI tools to build simple webapps and games as classroom projects." },
+        { "title": "AI & drones / mini robotics", "body": "Cross-disciplinary AIoT workshops connecting sensors and robotics to AI concepts." },
+        { "title": "Swift Playground / AI-900", "body": "Extension coursework for students heading toward app development or AI certification." },
+        { "title": "Crisis Averted workshop", "body": "A scenario-based workshop putting AI ethics decisions in front of students directly." }
+    ]
+    },
+    "icar": {
+        "eyebrow": "AI TEACHING KIT",
+        "intro": "iCar is developed by the research team at The Chinese University of Hong Kong (CUHK). It is an AI teaching kit specifically designed for junior secondary school students, able to perform several interesting experiments to learn AI using Blockly programming. More than half of local secondary schools are utilizing iCar to conduct AI teaching activities.",
+        "howToUseTitle": "How to use iCar?",
+        "howToUse": [
+            { "title": "MakeCode Blockly Programming", "body": "Program iCar visually using drag-and-drop Blockly blocks — no typed code required." },
+            { "title": "Mobile Bluetooth Control", "body": "Control iCar directly from a phone over Bluetooth using the companion app." },
+            { "title": "Infrared Remote Control", "body": "Drive iCar manually with a standard infrared remote for quick, code-free demos." }
+        ],
+        "experimentLabel": "Experiment",
+        "discussionTitle": "Sample Discussion Questions",
+        "resourceSummaryTitle": "Resource Summary",
+        "experiments": [
+            {
+            "id": "moral-dilemma",
+            "title": "Moral Dilemma",
+            "description": "When the braking function of a self-driving car fails, and it can only turn left or right. Regardless of which route it chooses, the vehicle will encounter pedestrians — on one side, kids, and on the other, the elderly. What should the autonomous car do, and what roles do humans and AI play in that decision? Students experiment with iCar to find out.",
+            "questions": [
+                "What machine learning method does iCar use?",
+                "When collecting data, what should we pay attention to, and why?",
+                "Besides evading kids and evading elderlies, does iCar have a third option?"
+            ],
+            "zhUrl": "https://download.eduairhk.com/%E9%81%93%E5%BE%B7%E5%9B%B0%E5%A2%83_%E4%B8%AD%E6%96%87%E7%89%88%E6%95%99%E6%9D%90.zip",
+            "enUrl": "https://download.eduairhk.com/Moral_Dilemma_English_Materials.zip",
+            "video1Label": "Programming",
+            "video1Url": "https://www.youtube.com/watch?v=a_Dz9kpI_CA",
+            "video2Label": "Operation Demo",
+            "video2Url": "https://www.youtube.com/watch?v=jDduUGM4tG0"
+            },
+            {
+            "id": "face-following",
+            "title": "Face Following",
+            "description": "Why can self-driving cars recognize faces and follow a specified face? How does a self-driving car learn this skill? Students experiment with iCar to find out.",
+            "questions": [
+                "How does iCar learn to recognize specific faces?",
+                "Does iCar's performance change when recognizing the same face from different angles, and why?",
+                "What are the benefits and limitations of this technology in real-life situations?"
+            ],
+            "zhUrl": "https://download.eduairhk.com/%E4%BA%BA%E9%9D%A2%E8%AD%98%E5%88%A5%E8%BF%BD%E8%B9%A4_%E4%B8%AD%E6%96%87%E7%89%88%E6%95%99%E6%9D%90.zip",
+            "enUrl": "https://download.eduairhk.com/Face_Following_English_Materials.zip"
+            },
+            {
+            "id": "line-tracking",
+            "title": "Line Tracking",
+            "description": "Self-driving cars can move based on various colored lines, both dashed and solid, to follow the correct path. How is this achieved? Students experiment with iCar to find out.",
+            "questions": [
+                "Is there a difference in iCar's performance when following hand-drawn lines versus printed lines?",
+                "Does the thickness, size or shape of the lines affect iCar's movement?",
+                "What are real-life applications of line-tracking technology?"
+            ],
+            "zhUrl": "https://download.eduairhk.com/%E6%89%8B%E7%95%AB%E7%B7%9A%E5%BE%AA%E8%B9%A4_%E4%B8%AD%E6%96%87%E7%89%88%E6%95%99%E6%9D%90.zip",
+            "enUrl": "https://download.eduairhk.com/Line_Tracking_English_Materials.zip"
+            },
+            {
+            "id": "food-delivery",
+            "title": "Food Delivery",
+            "description": "Reasoning is the process of deciding what action to take to complete a task, based on the information at hand — divided into three levels: skill-based, rule-based, and knowledge-based. The Food Delivery experiment shows behaviour under each reasoning level: students choose different delivery locations and observe how iCar's route choice changes.",
+            "questions": [],
+            "zhUrl": "https://download.eduairhk.com/%E9%80%81%E9%A4%90%E5%AF%A6%E9%A9%97_%E4%B8%AD%E6%96%87%E7%89%88%E6%95%99%E6%9D%90.zip",
+            "enUrl": "https://download.eduairhk.com/Food_Delivery_English_Materials.zip",
+            "video1Label": "Programming",
+            "video1Url": "https://www.youtube.com/watch?v=UGJG_fT5NM8",
+            "video2Label": "Operation Demo",
+            "video2Url": "https://www.youtube.com/watch?v=uq2nNsxuxV0",
+            "reasoningVideos": [
+                { "label": "Skill-based Reasoning", "url": "https://video.eduairhk.com/food_skill.mp4", "caption": "Uses the most straightforward method to finish the task." },
+                { "label": "Rule-based Reasoning", "url": "https://video.eduairhk.com/food_rule.mp4", "caption": "Makes decisions based on learned patterns and executes them." },
+                { "label": "Knowledge-based Reasoning", "url": "https://video.eduairhk.com/food_knowledge.mp4", "caption": "Applies machine learning to figure out the best solution." }
+            ]
+            }
+        ]
+        },
+    "iport": {
+        "eyebrow": "AI TEACHING KIT",
+        "intro": "iPort is an AI education toolkit developed by the CUHK team. With just three simple steps, students can create their own AI projects, encouraging creative learning in AI. By training an AI model on the no-code iTrain platform and connecting STEM components, iPort can control its outputs based on AI classification results — turning a project into a working AIoT application.",
+        "howToUseTitle": "How to use iPort?",
+        "stepsExampleLabel": "Example: Gesture-controlled car",
+        "steps": [
+            "Train an AI model and generate a link",
+            "Upload the model to the programming platform",
+            "Operate iPort or the simulator"
+        ],
+        "experimentLabel": "Experiment",
+        "discussionTitle": "Sample Discussion Questions",
+        "otherTitle": "Other Experiments",
+        "experiments": [
+            {
+            "id": "alert-system",
+            "title": "Stranger Alert System",
+            "description": "Train an AI image recognition model to detect whether someone is present at a restricted area gate. Through the iPort programming platform, simple configuration can trigger safety warnings, sound alerts, and lighting effects — reminding unauthorized individuals to leave whenever someone passes through.",
+            "questions": [
+                "Is it possible to allow only authorized individuals through the gate, instead of alerting for anyone who passes?",
+                "Why might the alarm trigger after dark, and how can false triggers be avoided?",
+                "If the \"someone is present\" model is trained only on photos of one classmate, is that enough data to reliably detect a person?"
+            ],
+            "video1Url": "https://video.eduairhk.com/iport5.mp4"
+            },
+            {
+            "id": "gesture-car",
+            "title": "Gesture-controlled Car",
+            "description": "After training a gesture recognition model of your choice, students control the movement of a car through gestures using the camera. The wireless control distance can reach up to 50 meters in an open environment — try a competition to see whose car can exit a maze the fastest.",
+            "questions": [
+                "What are the differences between image-recognition gesture control and traditional gesture-recognition techniques?",
+                "How can data collection be optimized to improve control of the car?"
+            ],
+            "video1Label": "Tutorial",
+            "video1Url": "https://video.eduairhk.com/iport8.mp4",
+            "video2Label": "Experiment Demonstration",
+            "video2Url": "https://video.eduairhk.com/iport1.mp4"
+            },
+            {
+            "id": "voice-switch",
+            "title": "Audio-controlled Light Switch",
+            "description": "iPort's switch-box accessory simulates realistic pushing and pulling movements. For individuals with mobility challenges, training a sound recognition model enables easy control of switches at home using simple voice commands — the wireless control distance can reach up to 15 meters even indoors with obstacles.",
+            "questions": [
+                "How can the accuracy of voice control be improved?",
+                "Noise may affect voice recognition accuracy and cause false triggers — how can we reduce the impact of noise?"
+            ],
+            "video1Url": "https://video.eduairhk.com/iport2.mp4"
+            }
+        ],
+        "otherExperiments": [
+            { "title": "Intelligent Toilet Paper Dispenser", "videoUrl": "https://video.eduairhk.com/iport_tissue_2.mp4" },
+            { "title": "Master Guess", "videoUrl": "https://video.eduairhk.com/iport6.mp4" },
+            { "title": "Clap Sound Control Switch", "videoUrl": "https://video.eduairhk.com/iport7.mp4" },
+            { "title": "AI Pinball", "videoUrl": "https://video.eduairhk.com/iport9.mp4" },
+            { "title": "Pet Feeder Machine", "videoUrl": "https://video.eduairhk.com/iport_dog_2.mp4" }
+        ]
+    },
+
+    "ishare": {
+        "eyebrow": "FREE RESOURCE HUB",
+        "intro": "A shared, no-login library of AI learning tools and Education-Bureau-aligned curriculum resources, open to any Hong Kong teacher.",
+        "categoriesTitle": "Explore by category",
+        "categories": [
+            { "title": "Vision", "body": "Free, no-login demos of computer vision tools — object detection, face recognition, and image classification." },
+            { "title": "Hearing", "body": "Sound and audio recognition demos, from simple sound classification to more advanced listening tasks." },
+            { "title": "Speech", "body": "Speech recognition and voice interaction demos suitable for classroom demonstration." },
+            { "title": "Comprehension", "body": "Natural language tools showing how AI models read and interpret text." },
+            { "title": "Creation", "body": "Hands-on creative AI tools appropriate for classroom project work." },
+            { "title": "Generative AI", "body": "Demos of generative AI tools, framed for responsible classroom use." }
+        ],
+        "curriculumEyebrow": "EDUCATION BUREAU CURRICULUM",
+        "curriculumTitle": "Junior-secondary AI curriculum materials",
+        "curriculumIntro": "Our team helped write the Education Bureau's own junior-secondary AI curriculum resources — the textbook, worksheet and slide materials are all available here, free.",
+        "books": [
+            { "title": "Book 1 — Foundations & Ethics", "body": "An introduction to AI concepts alongside AI ethics — the questions students should ask before trusting a model's output." },
+            { "title": "Book 2 — Computer Vision, Speech & Language", "body": "Core technical topics: how machines see, hear, and process language, with classroom-ready demonstrations." },
+            { "title": "Book 3 — Robotics, Society & Group Projects", "body": "Robotics reasoning, the social impact of AI on the future of work, and a structured group project students design themselves." }
+        ],
+        "ctaTitle": "Looking for something specific to your year group?",
+        "ctaButton": "Ask our team"
+        },
+
+    "news": {
+        "heroEyebrow": "NEWS & EVENTS",
+        "heroTitle": "What's happening in EduAir classrooms.",
+        "heroBody": "Workshop recaps, competitions, and partnership news from Hong Kong schools working with EduAIR.",
+        "empty": "No news posted yet.",
+        "backToAll": "Back to all news",
+        "notFound": "This event couldn't be found."
+
+
+        
+    },
+    
+
+    "success": {
+        "heroEyebrow": "SUCCESS STORIES",
+        "heroTitle": "Programmes we've actually run, not case studies we've imagined.",
+        "heroBody": "A sample of the workshops, term-long programmes and curriculum work EduAIR has delivered across Hong Kong schools.",
+        "stories": [
+            { "level": "Junior secondary · 5 schools, one term", "school": "Arts & Technology Education Centre programme, Jan–May 2025", "quote": "Form 2 and 3 students across five secondary schools worked through 146 lessons of iCar and iPort together — face-tracking and ethical-dilemma experiments on iCar, then alarm systems and voice-controlled lights built with iPort." },
+            { "level": "Special educational needs", "school": "New Life Psychiatric Rehabilitation Association", "quote": "A professional-training workshop on using generative AI specifically to support children with special educational needs — built around real staff questions, not a generic AI overview." },
+            { "level": "Kindergarten & family learning", "school": "The Salvation Army Kam Tin Nursery School", "quote": "Staff training on using Canva directly inside lesson planning and classroom materials — one of several workshops we run for kindergarten teaching teams." },
+            { "level": "Government curriculum alignment", "school": "Education Bureau junior-secondary AI curriculum", "quote": "Our team helped write the EDB's own junior-secondary AI curriculum teaching resources, and delivered teacher training across 20 official EDB workshops on applying that curriculum in class." }
+        ],
+        "competitionsLabel": "Competitions we run",
+        "competitionsBody": "EduAIR organises its own Primary School AI Innovation Competition each year, alongside the \"Articulating Hong Kong\" AI image-creation competition, giving students outside our workshops a route into applied AI work too.",
+        "ctaTitle": "Want to see similar results at your school?",
+        "ctaButton": "Get in touch"
+    },
+
+    "resources": {
+    "heroEyebrow": "RESOURCE HUB",
+    "heroTitle": "Everything a teacher needs, in one place.",
+    "heroBody": "Downloadable lesson materials, articles on AI education, and answers to the questions we hear most from schools.",
+    "downloadsTitle": "Downloadable Teaching Resources",
+    "downloadsIntro": "Materials from our iCar and iPort experiments — most available in both Chinese and English.",
+    "videosLabel": "Demo Videos",
+    "videos": [
+        { "title": "iCar — Delivery Robot Experiment, Demo 1", "url": "https://www.youtube.com/watch?v=UGJG_fT5NM8" },
+        { "title": "iCar — Delivery Robot Experiment, Demo 2", "url": "https://www.youtube.com/watch?v=uq2nNsxuxV0" },
+        { "title": "iCar — Moral Dilemma Experiment, Demo 1", "url": "https://www.youtube.com/watch?v=a_Dz9kpI_CA" },
+        { "title": "iCar — Moral Dilemma Experiment, Demo 2", "url": "https://www.youtube.com/watch?v=jDduUGM4tG0" }
+    ],
+    "worksheetsLabel": "Lesson Plans & Worksheets",
+    "worksheets": [
+        { "title": "Machine vs. Human Perception Race", "kit": "iCar", "zh": "https://download.eduairhk.com/Chapter01_IN_ZH.zip", "en": "https://download.eduairhk.com/Chapter01_IN_EN.zip" },
+        { "title": "Delivery Robot Experiment", "kit": "iCar", "zh": "https://download.eduairhk.com/%E9%80%81%E9%A4%90%E5%AF%A6%E9%A9%97_%E4%B8%AD%E6%96%87%E7%89%88%E6%95%99%E6%9D%90.zip", "en": "https://download.eduairhk.com/Food_Delivery_English_Materials.zip" },
+        { "title": "Moral Dilemma Experiment", "kit": "iCar", "zh": "https://download.eduairhk.com/%E9%81%93%E5%BE%B7%E5%9B%B0%E5%A2%83_%E4%B8%AD%E6%96%87%E7%89%88%E6%95%99%E6%9D%90.zip", "en": "https://download.eduairhk.com/Moral_Dilemma_English_Materials.zip" },
+        { "title": "Hand-Drawn Line Tracking", "kit": "iCar", "zh": "https://download.eduairhk.com/%E6%89%8B%E7%95%AB%E7%B7%9A%E5%BE%AA%E8%B9%A4_%E4%B8%AD%E6%96%87%E7%89%88%E6%95%99%E6%9D%90.zip", "en": "https://download.eduairhk.com/Line_Tracking_English_Materials.zip" },
+        { "title": "Face Recognition Tracking", "kit": "iCar", "zh": "https://download.eduairhk.com/%E4%BA%BA%E9%9D%A2%E8%AD%98%E5%88%A5%E8%BF%BD%E8%B9%A4_%E4%B8%AD%E6%96%87%E7%89%88%E6%95%99%E6%9D%90.zip", "en": "https://download.eduairhk.com/Face_Following_English_Materials.zip" },
+        { "title": "Alarm System", "kit": "iPort", "zh": "https://download.eduairhk.com/iPort%E8%AD%A6%E5%A0%B1%E7%B3%BB%E7%B5%B1%E5%AF%A6%E9%A9%97.pdf" },
+        { "title": "Voice-Controlled Lights", "kit": "iPort", "zh": "https://download.eduairhk.com/iPort%E8%81%B2%E6%8E%A7%E7%87%88%E9%A3%BE%E5%AF%A6%E9%A9%97.pdf" },
+        { "title": "AI Car", "kit": "iPort", "zh": "https://download.eduairhk.com/iPort%20AI%20%E5%B0%8F%E8%BB%8A%E5%AF%A6%E9%A9%97.pdf" }
+    ],
+    "kitGroups": [
+    {
+        "kit": "iCar",
+        "items": [
+        { "title": "Machine vs. Human Perception Race", "zh": "https://download.eduairhk.com/Chapter01_IN_ZH.zip", "en": "https://download.eduairhk.com/Chapter01_IN_EN.zip" },
+        { "title": "Moral Dilemma Experiment", "zh": "https://download.eduairhk.com/%E9%81%93%E5%BE%B7%E5%9B%B0%E5%A2%83_%E4%B8%AD%E6%96%87%E7%89%88%E6%95%99%E6%9D%90.zip", "en": "https://download.eduairhk.com/Moral_Dilemma_English_Materials.zip" },
+        { "title": "Face Recognition Tracking", "zh": "https://download.eduairhk.com/%E4%BA%BA%E9%9D%A2%E8%AD%98%E5%88%A5%E8%BF%BD%E8%B9%A4_%E4%B8%AD%E6%96%87%E7%89%88%E6%95%99%E6%9D%90.zip", "en": "https://download.eduairhk.com/Face_Following_English_Materials.zip" },
+        { "title": "Delivery Robot Experiment", "zh": "https://download.eduairhk.com/%E9%80%81%E9%A4%90%E5%AF%A6%E9%A9%97_%E4%B8%AD%E6%96%87%E7%89%88%E6%95%99%E6%9D%90.zip", "en": "https://download.eduairhk.com/Food_Delivery_English_Materials.zip" }
+        ]
+    },
+    {
+        "kit": "iPort",
+        "items": [
+        { "title": "Voice Controlled Lights", "zh": "https://download.eduairhk.com/iPort%E8%81%B2%E6%8E%A7%E7%87%88%E9%A3%BE%E5%AF%A6%E9%A9%97.pdf" },
+        { "title": "Alarm System", "zh": "https://download.eduairhk.com/iPort%E8%AD%A6%E5%A0%B1%E7%B3%BB%E7%B5%B1%E5%AF%A6%E9%A9%97.pdf" },
+        { "title": "AI Car", "zh": "https://download.eduairhk.com/iPort%20AI%20%E5%B0%8F%E8%BB%8A%E5%AF%A6%E9%A9%97.pdf" }
+        ]
+    }
+    ],
+    "articlesTitle": "Articles on AI Education",
+    "articlesIntro": "Write-ups from recent talks, workshops and events on how AI is taught and discussed in Hong Kong schools.",
+    "readMore": "Read more",
+    "articles": [
+        { "title": "「科幻・科學」— Science Fiction Film and AI Ethics", "date": "April 2025", "summary": "A public event pairing science-fiction film screenings with discussion of AI ethics.", "url": "https://eduairhk.com/news/21" },
+        { "title": "AI Ethics and Literacy in Education — Tak Sun Secondary School", "date": "October 2025", "summary": "A teacher professional workshop on the ethics and literacy demands of teaching AI.", "url": "https://eduairhk.com/news/36" },
+        { "title": "The Integration of AI and Chinese Culture", "date": "April 2025", "summary": "An interdisciplinary theme day exploring where AI and Chinese culture intersect.", "url": "https://eduairhk.com/news/20" },
+        { "title": "The Moral Reasoning and Responsibility Behind AI", "date": "June 2026", "summary": "A student workshop on ethical reasoning and responsibility in AI.", "url": "https://eduairhk.com/news/50" }
+    ],
+    "faqEyebrow": "FREQUENTLY ASKED QUESTIONS",
+    "faq": [
+        { "question": "What age groups do EduAIR's kits and courses suit?", "answer": "iCar is built for junior secondary students, iPort needs no coding background so it suits younger students too, and iShare's resources span primary through senior secondary." },
+        { "question": "Do our teachers need a coding background to run a workshop?", "answer": "No. iPort requires no coding at all, and our on-site workshops include teacher training so your staff can run sessions independently afterward." },
+        { "question": "Can EduAIR help us apply for funding?", "answer": "Yes — we help schools prepare applications for schemes such as the Secondary School IT Innovation Lab and other STEAM-related funding." },
+        { "question": "How do we book an on-site workshop?", "answer": "Get in touch through our contact page or call +852 6437 3924 — most enquiries receive a proposal within two working days." },
+        { "question": "Are teaching materials available in both Chinese and English?", "answer": "Yes, most iCar lesson materials are available as separate Chinese and English downloads." },
+        { "question": "Is EduAIR a registered organisation?", "answer": "Yes — EduAIR Systems Limited is a registered charity in Hong Kong, registration no. 91/18516." }
+    ],
+    "ctaTitle": "Looking for something specific to your year group?",
+    "ctaButton": "Ask our team"
+    },
+    "contact": {
+        "heroEyebrow": "CONTACT US",
+        "heroTitle": "Tell us about your school, we'll take it from there.",
+        "heroBody": "Most enquiries get a reply within two working days. For urgent workshop bookings, call us directly.",
+        "infoEyebrow": "CONTACT INFO",
+        "phoneLabel": "Phone",
+        "whatsappLabel": "WhatsApp",
+        "whatsappCta": "Message us directly",
+        "officeLabel": "Office",
+        "faqEyebrow": "FREQUENTLY ASKED QUESTIONS",
+        "noteTitle": "Booking a term-length programme?",
+        "noteBody": "Give us at least three weeks' notice so we can match kit availability to your timetable.",
+        "formHelp": "What can we help with?",
+        "reasons": ["Schedule a course consultation", "Request a quote", "Apply for on-site briefing", "Inquire about funding packages"],
+        "nameLabel": "Name",
+        "schoolLabel": "School",
+        "emailLabel": "Email",
+        "messageLabel": "Message",
+        "send": "Send message",
+        "sending": "Sending…",
+        "sentMessage": "Thanks — your message has been sent. We'll reply within two working days.",
+        "errorMessage": "Something went wrong sending your message. Please email or call us directly.",
+        "faq": [
+            { "question": "What age groups do EduAIR's kits and courses suit?", "answer": "iCar is built for junior secondary students, iPort needs no coding background so it suits younger students too, and iShare's resources span primary through senior secondary." },
+            { "question": "Do our teachers need a coding background to run a workshop?", "answer": "No. iPort requires no coding at all, and our on-site workshops include teacher training so your staff can run sessions independently afterward." },
+            { "question": "Can EduAIR help us apply for funding?", "answer": "Yes — we help schools prepare applications for schemes such as the Secondary School IT Innovation Lab and other STEAM-related funding." },
+            { "question": "How do we book an on-site workshop?", "answer": "Get in touch through our contact page or call +852 6437 3924 — most enquiries receive a proposal within two working days." },
+            { "question": "Are teaching materials available in both Chinese and English?", "answer": "Yes, most iCar lesson materials are available as separate Chinese and English downloads." },
+            { "question": "Is EduAIR a registered organisation?", "answer": "Yes — EduAIR Systems Limited is a registered charity in Hong Kong, registration no. 91/18516." }
+        ]
+    },
+    "footer": {
+    "tagline": "EduAIR (愛動智教育系統), a Hong Kong non-profit spun out of a CUHK research team, designs AI and STEAM learning experiences for primary and secondary schools.",
+    "exploreTitle": "Explore",
+    "servicesTitle": "Services",
+    "services": ["On-site AI / STEAM workshops", "iCar, iPort & iShare kits", "Teacher professional training", "Curriculum consultancy"],
+    "contactTitle": "Contact",
+    "copyright": "© {year} EduAIR Systems Limited, Hong Kong. Charity registration no. 91/18516.",
+    "privacy": "Privacy policy",
+    "terms": "Terms"
+    }
+}

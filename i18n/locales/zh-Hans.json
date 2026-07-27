@@ -1,0 +1,398 @@
+{
+  "nav": {
+    "about": "关于我们",
+    "services": "服务",
+    "viewAll": "所有服务",
+    "news": "最新消息",
+    "success": "成功案例",
+    "resources": "资源",
+    "contact": "联络我们"
+  },
+  
+  "home": {
+    "heroTitle1": "掌握",
+    "heroTitleAI": "AI",
+    "heroTitle2": "更好明天",
+    "heroSubtitle": "爱动智教育系统提供一系列创新AI教学套件及课程",
+    "cardDescription": "EduAIR（愛動智）是一家源自香港中文大學研究團隊的香港非牟利機構。我们开发人工智能（AI）教学套件，举办实地工作坊并培训教师，所有内容均提供双语版本并与课程大纲紧密结合。",
+    "viewKits": "所有服務",
+    "bookWorkshop": "預訂工作坊",
+    "awardsLabel": "奖项及认证",
+    "aboutEyebrow": "关于我们",
+    "aboutTitle": "全面的学校 AI 教育支援",
+    "aboutBody": "EduAIR致力构建一个共享学习的平台，提供多元化的服务，帮助学生进一步了解 AI 和 STEAM，让学生在互动和实践中更深入全面地理解和应用AI和STEAM相关知识，以激发学生的学习兴趣和创造力。",
+    "aboutCta": "理解更多",
+    "kitsEyebrow": "教学套件及平台",
+    "kitsIntro": "EduAIR 自主研发的 iPort、iCar、iShare 及 iTrain 平台， 让学生动手实践 AI 及 AIoT 概念，建立真实的 AI 学习体验。",
+    "kitsTitle": "获奖认可的 AI 教学套件",
+    "kits": [
+        {
+        "tag": "套件01",
+        "name": "iCar",
+        "subtitle": "AI 智能车教学套件",
+        "body": "iCar 是专为中小学设计的 AI 智能车套件，学生可以编程控制智能车执行各种任务，学习 AI 感知、决策及行动的基本原理。",
+        "cta": "探索iCar套件",
+        "photo": "/images/iCar.jpg"
+        },
+        {
+        "tag": "套件02",
+        "name": "iPort",
+        "subtitle": "AIoT 创客教育套件",
+        "body": "iPort 是 EduAIR 的旗舰 AIoT 教学套件，集成多种感测器、执行器及 AI 模组，让学生动手实践 AIoT 概念，完成真实的智能装置项目。",
+        "cta": "探索iPort套件",
+        "photo": "/images/iPort.jpg"
+        },
+        {
+        "tag": "套件03",
+        "name": "iShare",
+        "subtitle": "AI 协作学习平台",
+        "body": "iShare 是 EduAIR 的 AI 协作学习平台，让学生在云端环境中共同完成 AI 项目，分享学习成果，建立 AI 学习社群。",
+        "cta": "探索iShare套件",
+        "photo": "/images/iShare.jpg"
+        }
+    ],
+    "newsLabel": "最新消息",
+    "newsTitle": "救世军锦田幼儿学校 Canva 教学应用工作坊",
+    "newsCta": "了解更多 >",
+    "partnersLabel": "合作伙伴",
+    "partnersTitle": "已与全港超过 148 所学校及机构合作",
+    "partnersBody": "从课程设计到教师培训，从教学套件到资助支援，EduAIR 为学校提供一站式 AI 教育解决方案。",
+    "ctaTitle": "本学期为贵校安排一场AI工作坊。",
+    "ctaBody": "告诉我们贵校的年级及日期，我们将尽快回复。",
+    "ctaButton": "联络我们"
+    },
+    "about": {
+        "heroEyebrow": "关于爱动智",
+        "heroTitle": "我们研发的，是自己也希望在课堂上学到的AI课程。",
+        "heroBody": "爱动智教育系统是一间香港非牟利教育科技公司，专为中小学设计AI及STEAM教学套件、工作坊及教师培训。",
+        "aboutEyebrow": "关于我们",
+        "aboutTitle": "创新的AI与STEAM教育",
+        "aboutBody": "爱动智是一间致力推动香港AI教育的非牟利机构，帮助年轻人建立AI／STEAM能力，并支持他们在相关领域实现目标。",
+        "aboutCta": "了解更多",
+        "storyEyebrow": "我们的故事",
+        "storyChapters": [
+            { "label": "起源", "heading": "由中大科研团队支持", "body": "爱动智教育系统有限公司是一间非牟利机构，由中大创新创业种子基金支持成立，团队本身已从事AI／STEAM教育研究。" },
+            { "label": "核心理念", "heading": "把AI拆解成可教授的课程", "body": "创办团队把AI课题拆解成一套结构清晰、可直接在课堂使用的课程——毋须具备电脑科学背景亦能教授或学习。" },
+            { "label": "现况", "heading": "已在全港逾半中学使用", "body": "这套课程连同以此研发的iCar套件，现时已被全港超过一半中学用作AI教学活动。" }
+        ],
+        "teamEyebrow": "团队与董事会",
+        "teamTitle": "由中大科研团队支持及建立",
+        "teamBody": "爱动智由一群在科技教育方面经验丰富的研究人员组成，他们的专业知识推动着我们在香港发展AI／STEAM教育的使命。",
+        "boardTitle": "董事会成员",
+        "techTitle": "技术团队"
+    },
+    "services": {
+    "heroEyebrow": "服务",
+    "heroTitle": "套件、工作坊及培训——为每个人提供全面的AI学习",
+    "heroBody": "无论是一节下午工作坊，还是一整个学期的AI课程，爱动智都能配合贵校既定的校历表。",
+    "tabKits": "AI教学套件",
+    "tabSchool": "到校服务",
+    "tabCourses": "课程与工作坊",
+    "learnMore": "了解更多",
+    "kits": [
+        { "name": "iCar", "level": "初中适用", "body": "透过动手实验掌握积木编程基础与AI伦理议题。" },
+        { "name": "iPort", "level": "无需编程基础", "body": "无需编程训练AI模型，再建立AIoT项目。" },
+        { "name": "iShare", "level": "免费资源平台", "body": "共享的AI学习工具及课程材料库。" },
+        { "name": "iTrain", "level": "初中适用", "body": "内容说明……" }
+    ],
+    "schoolServices": [
+        { "title": "到校AI／STEAM工作坊", "body": "使用我们自家套件，直接在贵校课堂进行的课节。" },
+        { "title": "教师专业发展", "body": "实务培训，让教师团队有信心独立教授AI课堂。" },
+        { "title": "校本AI课程设计", "body": "配合贵校年级及时间表的课程编排。" },
+        { "title": "AI教育顾问服务", "body": "提供套件选择、课堂编排及课室设置方面的意见。" },
+        { "title": "比赛及活动策划", "body": "协助学生参加比赛，并支援筹办校内成果展示活动。" },
+        { "title": "资助计划申请", "body": "协助筹备中学IT创新实验室计划等资助申请。" }
+    ],
+    "courses": [
+        { "title": "iCar工作坊", "body": "透过自动驾驶车实验，亲身体验积木编程基础与AI伦理议题。" },
+        { "title": "iPort工作坊", "body": "无需编程训练AI模型，再以iPort套件制作AIoT项目。" },
+        { "title": "AI在教与学中的应用", "body": "教授如何将AI工具直接应用于课堂教学的专业培训工作坊。" },
+        { "title": "AI与Python／Scikit-learn", "body": "为准备好由积木编程进阶至实际程式码的班级而设。" },
+        { "title": "生成式AI与Webapp", "body": "运用生成式AI工具制作简单网页应用程式及游戏。" },
+        { "title": "AI与无人机／小小机械人工程", "body": "连结感测器及机械人技术与AI概念的跨学科工作坊。" },
+        { "title": "Swift Playground／AI-900", "body": "为有意发展应用程式开发或考取AI认证的同学而设。" },
+        { "title": "「危机解除」工作坊", "body": "以情境式体验，让同学亲身面对AI伦理决策。" }
+    ]
+    },
+    "icar": {
+        "eyebrow": "AI教学套件",
+        "intro": "iCar由香港中文大学（中大）研究团队研发，是专为初中学生而设的AI教学套件，透过Blockly积木编程进行多个有趣实验学习AI。全港超过一半中学正使用iCar进行AI教学活动。",
+        "howToUseTitle": "如何使用iCar？",
+        "howToUse": [
+            { "title": "MakeCode Blockly编程", "body": "以拖放式Blockly积木为iCar编程——无需输入程式码。" },
+            { "title": "手机蓝牙控制", "body": "透过配套应用程式，经蓝牙直接以手机控制iCar。" },
+            { "title": "红外线遥控", "body": "使用标准红外线遥控器手动驾驶iCar，快速示范且无需编程。" }
+        ],
+        "experimentLabel": "实验",
+        "discussionTitle": "讨论题目示例",
+        "resourceSummaryTitle": "资源总览",
+        "experiments": [
+            {
+            "id": "moral-dilemma",
+            "title": "道德困境",
+            "description": "当自动驾驶车的刹车功能失灵，只能向左或向右转时，无论选择哪条路线都会遇上行人——一边是小孩，另一边是长者。自动驾驶车应该怎样做？人类与AI在这个决定中各自扮演什么角色？同学透过iCar亲身实验寻找答案。",
+            "questions": [
+                "iCar使用哪种机器学习方法？",
+                "收集数据时应注意什么，原因是什么？",
+                "除了避开小孩及避开长者，iCar还有第三个选项吗？"
+            ],
+            "zhUrl": "https://download.eduairhk.com/%E9%81%93%E5%BE%B7%E5%9B%B0%E5%A2%83_%E4%B8%AD%E6%96%87%E7%89%88%E6%95%99%E6%9D%90.zip",
+            "enUrl": "https://download.eduairhk.com/Moral_Dilemma_English_Materials.zip",
+            "video1Label": "编程示范",
+            "video1Url": "https://www.youtube.com/watch?v=a_Dz9kpI_CA",
+            "video2Label": "操作示范",
+            "video2Url": "https://www.youtube.com/watch?v=jDduUGM4tG0"
+            },
+            {
+            "id": "face-following",
+            "title": "人面追踪",
+            "description": "自动驾驶车为何能识别人脸并追踪特定的脸孔？自动驾驶车如何学会这项技能？同学透过iCar亲身实验寻找答案。",
+            "questions": [
+                "iCar如何学会识别特定脸孔？",
+                "从不同角度识别同一张脸孔时，iCar的表现会否有所不同？原因是什么？",
+                "此技术在现实情况中有何好处与限制？"
+            ],
+            "zhUrl": "https://download.eduairhk.com/%E4%BA%BA%E9%9D%A2%E8%AD%98%E5%88%A5%E8%BF%BD%E8%B9%A4_%E4%B8%AD%E6%96%87%E7%89%88%E6%95%99%E6%9D%90.zip",
+            "enUrl": "https://download.eduairhk.com/Face_Following_English_Materials.zip"
+            },
+            {
+            "id": "line-tracking",
+            "title": "循线追踪",
+            "description": "自动驾驶车能沿着不同颜色、虚实线条移动并保持正确路径，这是如何实现的？同学透过iCar亲身实验寻找答案。",
+            "questions": [
+                "iCar追踪手绘线条与打印线条时，表现是否有分别？",
+                "线条的粗幼、大小或形状会否影响iCar的移动？",
+                "循线追踪技术在现实生活中有何应用？"
+            ],
+            "zhUrl": "https://download.eduairhk.com/%E6%89%8B%E7%95%AB%E7%B7%9A%E5%BE%AA%E8%B9%A4_%E4%B8%AD%E6%96%87%E7%89%88%E6%95%99%E6%9D%90.zip",
+            "enUrl": "https://download.eduairhk.com/Line_Tracking_English_Materials.zip"
+            },
+            {
+            "id": "food-delivery",
+            "title": "送餐实验",
+            "description": "推理是根据现有资讯决定完成任务所需行动的过程——分为技能型、规则型及知识型三个层次。送餐实验展示各推理层次下的行为：同学选择不同的送餐地点，观察iCar的路线选择如何变化。",
+            "questions": [],
+            "zhUrl": "https://download.eduairhk.com/%E9%80%81%E9%A4%90%E5%AF%A6%E9%A9%97_%E4%B8%AD%E6%96%87%E7%89%88%E6%95%99%E6%9D%90.zip",
+            "enUrl": "https://download.eduairhk.com/Food_Delivery_English_Materials.zip",
+            "video1Label": "编程示范",
+            "video1Url": "https://www.youtube.com/watch?v=UGJG_fT5NM8",
+            "video2Label": "操作示范",
+            "video2Url": "https://www.youtube.com/watch?v=uq2nNsxuxV0",
+            "reasoningVideos": [
+                { "label": "技能型推理", "url": "https://video.eduairhk.com/food_skill.mp4", "caption": "以最直接的方式完成任务。" },
+                { "label": "规则型推理", "url": "https://video.eduairhk.com/food_rule.mp4", "caption": "根据已学习的模式作出决策并执行。" },
+                { "label": "知识型推理", "url": "https://video.eduairhk.com/food_knowledge.mp4", "caption": "运用机器学习找出最佳方案。" }
+            ]
+            }
+        ]
+        },
+    "iport": {
+        "eyebrow": "AI教学套件",
+        "intro": "iPort是由中大团队研发的AI教育套件，只需三个简单步骤，同学便能创作属于自己的AI项目，鼓励AI创意学习。透过无需编程的iTrain平台训练AI模型，再连接STEM组件，iPort能根据AI分类结果控制输出装置——把项目化成实际运作的AIoT应用。",
+        "howToUseTitle": "如何使用iPort？",
+        "stepsExampleLabel": "示例：手势控制小车",
+        "steps": ["训练AI模型并生成链接", "把模型上传至编程平台", "操作iPort或模拟器"],
+        "experimentLabel": "实验",
+        "discussionTitle": "讨论题目示例",
+        "otherTitle": "其他实验",
+        "experiments": [
+            {
+            "id": "alert-system",
+            "title": "陌生人警报系统",
+            "description": "训练AI影像识别模型，侦测限制区域闸口是否有人。透过iPort编程平台，简单设定即可触发安全警示、声响及灯光效果——每当有人经过限制区域闸口，便会提醒未经授权人士离开。",
+            "questions": [
+                "能否只允许已授权人士通过闸口，而非对所有经过的人发出警报？",
+                "为何警报可能在天黑后被触发？如何避免误触发？",
+                "如果「有人在场」模型只用一位同学的照片训练，这样的数据是否足以可靠地侦测到人？"
+            ],
+            "video1Url": "https://video.eduairhk.com/iport5.mp4"
+            },
+            {
+            "id": "gesture-car",
+            "title": "手势控制小车",
+            "description": "训练自选的手势识别模型后，同学可透过镜头以手势控制小车移动。开放环境下无线控制距离可达50米——不妨来一场比赛，看看谁的小车能最快走出迷宫。",
+            "questions": [
+                "影像识别手势控制与传统手势识别技术有何分别？",
+                "如何优化数据收集以改善小车的控制？"
+            ],
+            "video1Label": "教学示范",
+            "video1Url": "https://video.eduairhk.com/iport8.mp4",
+            "video2Label": "实验示范",
+            "video2Url": "https://video.eduairhk.com/iport1.mp4"
+            },
+            {
+            "id": "voice-switch",
+            "title": "声控灯饰开关",
+            "description": "iPort的开关盒配件能模拟逼真的推拉动作。对行动不便人士而言，训练声音识别模型即可用简单语音指令轻松控制家中开关——即使在有障碍物的室内环境，无线控制距离仍可达15米。",
+            "questions": [
+                "如何提升声控的准确度？",
+                "噪音可能影响语音识别准确度并导致误触发——如何减低噪音的影响？"
+            ],
+            "video1Url": "https://video.eduairhk.com/iport2.mp4"
+            }
+        ],
+        "otherExperiments": [
+            { "title": "智能厕纸分配器", "videoUrl": "https://video.eduairhk.com/iport_tissue_2.mp4" },
+            { "title": "猜拳大师", "videoUrl": "https://video.eduairhk.com/iport6.mp4" },
+            { "title": "拍手声控开关", "videoUrl": "https://video.eduairhk.com/iport7.mp4" },
+            { "title": "AI弹珠机", "videoUrl": "https://video.eduairhk.com/iport9.mp4" },
+            { "title": "宠物喂食机", "videoUrl": "https://video.eduairhk.com/iport_dog_2.mp4" }
+        ]
+        },
+
+        "ishare": {
+            "eyebrow": "免费资源平台",
+            "intro": "一个无需登入、涵盖AI学习工具及配合教育局课程的资源平台，开放给全港教师使用。",
+            "categoriesTitle": "按分类浏览",
+            "categories": [
+                { "title": "视觉", "body": "免费、无需登入的AI示范，涵盖物件侦测、人脸识别及图像分类。" },
+                { "title": "听觉", "body": "声音及音频识别示范，由简单的声音分类到较深入的聆听任务。" },
+                { "title": "语音", "body": "适合课堂示范的语音识别及语音互动示范。" },
+                { "title": "理解", "body": "展示AI模型如何阅读及理解文字的自然语言工具。" },
+                { "title": "创作", "body": "适用于课堂专题项目的创意AI实作工具。" },
+                { "title": "生成式AI", "body": "生成式AI工具示范，并附有课堂责任使用的说明。" }
+            ],
+            "curriculumEyebrow": "教育局课程",
+            "curriculumTitle": "初中AI课程单元教材",
+            "curriculumIntro": "我们团队协助撰写教育局初中AI课程单元的教学资源——教科书、工作纸及简报材料均可在此免费下载。",
+            "books": [
+                { "title": "第一册——基础与伦理", "body": "AI概念入门连同AI伦理——学生在信任模型输出结果前应提出的问题。" },
+                { "title": "第二册——电脑视觉、语音及语言", "body": "核心技术课题：机器如何看、听及处理语言，配以课堂实用示范。" },
+                { "title": "第三册——机器人推理、社会与小组专题", "body": "机器人推理、AI对未来工作的社会影响，以及学生自行设计的结构化小组专题。" }
+            ],
+            "ctaTitle": "想寻找适合贵校年级的特定资源？",
+            "ctaButton": "查询我们的团队"
+        },
+        "news": {
+            "heroEyebrow": "最新消息",
+            "heroTitle": "爱动智课堂正在发生的事。",
+            "heroBody": "来自各合作学校的工作坊回顾、比赛消息及合作项目公布。",
+            "empty": "暂时未有相关消息。",
+            "backToAll": "返回所有消息",
+            "notFound": "找不到此活动。"
+        },
+
+        "success": {
+            "heroEyebrow": "同伴心声",
+            "heroTitle": "这些是我们真正举办过的课程，不是凭空想象的个案。",
+            "heroBody": "以下节录部分爱动智于全港学校举办的工作坊、长期课程及课程发展项目。",
+            "stories": [
+                { "level": "初中．五校同期课程", "school": "艺术与科技教育中心课程，2025年1月至5月", "quote": "五间中学的中二及中三同学在同一学期内合共完成146堂iCar及iPort课程——先在iCar进行人脸追踪及道德困境实验，再用iPort制作警报系统及声控灯饰。" },
+                { "level": "特殊教育需要", "school": "新生精神康复会", "quote": "一场专为运用生成式AI支持有特殊学习需要儿童而设的专业培训工作坊——内容围绕前线同工的实际提问，而非一般性的AI概论。" },
+                { "level": "幼儿园及亲子学习", "school": "救世军锦田幼儿学校", "quote": "教授教职员如何将Canva直接应用于备课及课堂材料制作——是我们为幼儿园教学团队举办的其中一场工作坊。" },
+                { "level": "配合政府课程", "school": "教育局初中AI课程", "quote": "我们的团队曾协助撰写教育局初中AI课程的教学资源，并在20场教育局官方工作坊担任培训导师，教授如何在课堂上应用此课程。" }
+            ],
+            "competitionsLabel": "我们举办的比赛",
+            "competitionsBody": "爱动智每年均举办自家的小学AI创新大赛，并与「艺述香港」AI图像创作比赛同步进行，让未有参与工作坊的同学亦有机会接触实践性的AI项目。",
+            "ctaTitle": "想在贵校达致类似成果？",
+            "ctaButton": "联络我们"
+        },
+        
+
+
+        "resources": {
+            "heroEyebrow": "资源总汇",
+            "heroTitle": "教师所需的一切，尽在一处。",
+            "heroBody": "可下载的教学材料、AI教育相关文章，以及学校最常向我们查询的问题解答。",
+            "downloadsTitle": "可下载教学资源",
+            "downloadsIntro": "来自我们iCar及iPort实验的教材——大部分设有中英文版本。",
+            "videosLabel": "示范影片",
+            "videos": [
+                { "title": "iCar——送餐实验，示范一", "url": "https://www.youtube.com/watch?v=UGJG_fT5NM8" },
+                { "title": "iCar——送餐实验，示范二", "url": "https://www.youtube.com/watch?v=uq2nNsxuxV0" },
+                { "title": "iCar——道德困境实验，示范一", "url": "https://www.youtube.com/watch?v=a_Dz9kpI_CA" },
+                { "title": "iCar——道德困境实验，示范二", "url": "https://www.youtube.com/watch?v=jDduUGM4tG0" }
+            ],
+            "worksheetsLabel": "教学资源及工作纸",
+            "worksheets": [
+                { "title": "机器感知和人类感知的互相竞赛", "kit": "iCar", "zh": "https://download.eduairhk.com/Chapter01_IN_ZH.zip", "en": "https://download.eduairhk.com/Chapter01_IN_EN.zip" },
+                { "title": "送餐实验", "kit": "iCar", "zh": "https://download.eduairhk.com/%E9%80%81%E9%A4%90%E5%AF%A6%E9%A9%97_%E4%B8%AD%E6%96%87%E7%89%88%E6%95%99%E6%9D%90.zip", "en": "https://download.eduairhk.com/Food_Delivery_English_Materials.zip" },
+                { "title": "道德困境实验", "kit": "iCar", "zh": "https://download.eduairhk.com/%E9%81%93%E5%BE%B7%E5%9B%B0%E5%A2%83_%E4%B8%AD%E6%96%87%E7%89%88%E6%95%99%E6%9D%90.zip", "en": "https://download.eduairhk.com/Moral_Dilemma_English_Materials.zip" },
+                { "title": "手画线循迹", "kit": "iCar", "zh": "https://download.eduairhk.com/%E6%89%8B%E7%95%AB%E7%B7%9A%E5%BE%AA%E8%B9%A4_%E4%B8%AD%E6%96%87%E7%89%88%E6%95%99%E6%9D%90.zip", "en": "https://download.eduairhk.com/Line_Tracking_English_Materials.zip" },
+                { "title": "人面识别追踪", "kit": "iCar", "zh": "https://download.eduairhk.com/%E4%BA%BA%E9%9D%A2%E8%AD%98%E5%88%A5%E8%BF%BD%E8%B9%A4_%E4%B8%AD%E6%96%87%E7%89%88%E6%95%99%E6%9D%90.zip", "en": "https://download.eduairhk.com/Face_Following_English_Materials.zip" },
+                { "title": "警报系统", "kit": "iPort", "zh": "https://download.eduairhk.com/iPort%E8%AD%A6%E5%A0%B1%E7%B3%BB%E7%B5%B1%E5%AF%A6%E9%A9%97.pdf" },
+                { "title": "声控灯饰", "kit": "iPort", "zh": "https://download.eduairhk.com/iPort%E8%81%B2%E6%8E%A7%E7%87%88%E9%A3%BE%E5%AF%A6%E9%A9%97.pdf" },
+                { "title": "AI小车", "kit": "iPort", "zh": "https://download.eduairhk.com/iPort%20AI%20%E5%B0%8F%E8%BB%8A%E5%AF%A6%E9%A9%97.pdf" }
+            ],
+            "kitGroups": [
+            {
+                "kit": "iCar",
+                "items": [
+                { "title": "机器感知和人类感知的互相竞赛", "zh": "https://download.eduairhk.com/Chapter01_IN_ZH.zip", "en": "https://download.eduairhk.com/Chapter01_IN_EN.zip" },
+                { "title": "道德困境实验", "zh": "https://download.eduairhk.com/%E9%81%93%E5%BE%B7%E5%9B%B0%E5%A2%83_%E4%B8%AD%E6%96%87%E7%89%88%E6%95%99%E6%9D%90.zip", "en": "https://download.eduairhk.com/Moral_Dilemma_English_Materials.zip" },
+                { "title": "人面识别追踪", "zh": "https://download.eduairhk.com/%E4%BA%BA%E9%9D%A2%E8%AD%98%E5%88%A5%E8%BF%BD%E8%B9%A4_%E4%B8%AD%E6%96%87%E7%89%88%E6%95%99%E6%9D%90.zip", "en": "https://download.eduairhk.com/Face_Following_English_Materials.zip" },
+                { "title": "送餐实验", "zh": "https://download.eduairhk.com/%E9%80%81%E9%A4%90%E5%AF%A6%E9%A9%97_%E4%B8%AD%E6%96%87%E7%89%88%E6%95%99%E6%9D%90.zip", "en": "https://download.eduairhk.com/Food_Delivery_English_Materials.zip" }
+                ]
+            },
+            {
+                "kit": "iPort",
+                "items": [
+                { "title": "声控灯饰", "zh": "https://download.eduairhk.com/iPort%E8%81%B2%E6%8E%A7%E7%87%88%E9%A3%BE%E5%AF%A6%E9%A9%97.pdf" },
+                { "title": "警报系统", "zh": "https://download.eduairhk.com/iPort%E8%AD%A6%E5%A0%B1%E7%B3%BB%E7%B5%B1%E5%AF%A6%E9%A9%97.pdf" },
+                { "title": "AI小车", "zh": "https://download.eduairhk.com/iPort%20AI%20%E5%B0%8F%E8%BB%8A%E5%AF%A6%E9%A9%97.pdf" }
+                ]
+            }
+            ],
+            "articlesTitle": "AI教育相关文章",
+            "articlesIntro": "来自我们近期讲座、工作坊及活动的纪录，探讨香港学校如何教授及讨论AI议题。",
+            "readMore": "阅读更多",
+            "articles": [
+                { "title": "「科幻・科学」——科幻电影与人工智能伦理", "date": "2025年4月", "summary": "结合科幻电影放映与AI伦理讨论的公开活动。", "url": "https://eduairhk.com/news/21" },
+                { "title": "德信中学——「AI 在教育中的伦理与素养」教师专业工作坊", "date": "2025年10月", "summary": "为该校教职员举办的到校专业工作坊，探讨教授AI所涉及的伦理与素养议题。", "url": "https://eduairhk.com/news/36" },
+                { "title": "「人工智能与中华文化的融合」跨学科主题活动日", "date": "2025年4月", "summary": "与东华三院群芳启智学校合办的跨学科主题活动日。", "url": "https://eduairhk.com/news/20" },
+                { "title": "「AI 背后的道德思辨与伦理责任」", "date": "2026年6月", "summary": "为仁济医院罗陈楚思中学学生举办的工作坊。", "url": "https://eduairhk.com/news/50" }
+            ],
+            "faqEyebrow": "常见问题",
+            "faq": [
+                { "question": "爱动智的教学套件及课程适合哪些年龄层？", "answer": "iCar专为初中学生而设；iPort无需编程基础，较年幼的学生亦适用；iShare的资源则涵盖小学至高中程度。" },
+                { "question": "老师需要具备编程背景才能主持工作坊吗？", "answer": "不需要。iPort完全无需编程，而我们的到校工作坊亦包括教师培训，让贵校教师日后可独立主持课堂。" },
+                { "question": "爱动智可以协助我们申请资助吗？", "answer": "可以——我们协助学校准备中学IT创新实验室计划及其他STEAM相关资助的申请。" },
+                { "question": "如何预约到校工作坊？", "answer": "欢迎透过联络页面与我们联系，或致电 +852 6437 3924。" },
+                { "question": "教学材料设有中英文版本吗？", "answer": "设有——大部分iCar课堂材料均设独立中文及英文版本供下载。" },
+                { "question": "爱动智是注册机构吗？", "answer": "是的——爱动智教育系统有限公司为香港注册慈善机构，注册编号91／18516。" }
+            ],
+            "ctaTitle": "想寻找适合贵校年级的特定资源？",
+            "ctaButton": "查询我们的团队"
+        },
+     "contact": {
+        "heroEyebrow": "联络我们",
+        "heroTitle": "告诉我们贵校的情况，其余交给我们。",
+        "heroBody": "大部分查询会于两个工作天内获得回复。如有紧急工作坊预约，欢迎直接致电。",
+        "infoEyebrow": "联络资料",
+        "phoneLabel": "电话",
+        "whatsappLabel": "WhatsApp",
+        "whatsappCta": "直接发送讯息",
+        "officeLabel": "办公室",
+        "faqEyebrow": "常见问题",
+        "noteTitle": "预约全学期课程？",
+        "noteBody": "请提前最少三星期通知我们，以便安排套件供应配合贵校时间表。",
+        "formHelp": "我们可以怎样协助？",
+        "reasons": ["预约课程咨询", "索取报价", "申请到校简介会", "查询资助方案"],
+        "nameLabel": "姓名",
+        "schoolLabel": "学校",
+        "emailLabel": "电邮",
+        "messageLabel": "讯息",
+        "send": "发送讯息",
+        "sending": "发送中……",
+        "sentMessage": "多谢——讯息已发送，我们将于两个工作天内回复。",
+        "errorMessage": "发送讯息时发生问题，请直接致电或电邮联络我们。",
+        "faq": [
+            { "question": "爱动智的教学套件及课程适合哪些年龄层？", "answer": "iCar专为初中学生而设；iPort无需编程基础，较年幼的学生亦适用；iShare的资源则涵盖小学至高中程度。" },
+            { "question": "老师需要具备编程背景才能主持工作坊吗？", "answer": "不需要。iPort完全无需编程，而我们的到校工作坊亦包括教师培训，让贵校教师日后可独立主持课堂。" },
+            { "question": "爱动智可以协助我们申请资助吗？", "answer": "可以——我们协助学校准备中学IT创新实验室计划及其他STEAM相关资助的申请。" },
+            { "question": "如何预约到校工作坊？", "answer": "欢迎透过联络页面与我们联系，或致电 +852 6437 3924——大部分查询会于两个工作天内获得建议书回复。" },
+            { "question": "教学材料设有中英文版本吗？", "answer": "设有——大部分iCar课堂材料均设独立中文及英文版本供下载。" },
+            { "question": "爱动智是注册机构吗？", "answer": "是的——爱动智教育系统有限公司为香港注册慈善机构，注册编号91／18516。" }
+        ]
+    },
+    "footer": {
+    "tagline": "爱动智教育系统是一间源自中大科研团队的香港非牟利机构，专为中小学设计AI与STEAM学习体验——到校工作坊、教学套件及教师培训。",
+    "exploreTitle": "探索",
+    "servicesTitle": "服务",
+    "services": ["到校AI／STEAM工作坊", "iCar、iPort及iShare教学套件", "教师专业培训", "课程顾问服务"],
+    "contactTitle": "联络我们",
+    "copyright": "© {year} 爱动智教育系统有限公司，香港。慈善机构注册编号91／18516。",
+    "privacy": "隐私政策",
+    "terms": "使用条款"
+    }
+}
